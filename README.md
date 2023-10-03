@@ -1,4 +1,4 @@
 # dio-java-iphone
 Modelagem e diagramação da representação em UML e código abordando a abstração em Java.
 
-![uml](assets/imgs/uml.png)
+![uml](/IPhone/assets/imgs/uml.png)
